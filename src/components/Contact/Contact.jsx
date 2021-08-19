@@ -40,7 +40,7 @@ const Contact = () => {
                             <input onChange={(e) => hanldleOnChange(e)} type="text" name="lastName" placeholder="Last Name" required />
                         </div>
                     </div>
-
+                    <h1>added</h1>
 
                     <div className="item">
                         <p>Address</p>
